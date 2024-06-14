@@ -1,0 +1,21 @@
+/* style.css*/
+
+.odd-nos {
+    background-color: #f5abcc;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.three{
+   font-size: 24px;
+}
+
+#no-two {
+    color: #0a50c9;
+    font-size: 36px;
+}
+
+#no-four{
+    background-color: #b2edbc;
+    font-size: 24px;
+    font-weight: bold;
+}
