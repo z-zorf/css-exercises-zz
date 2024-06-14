@@ -1,0 +1,17 @@
+/* style.css*/
+
+.ask_first,
+.ask_second {
+    font-size: 35px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.ask_first {
+    background-color: rgba(0, 0, 0, 1);
+    color: hsla(360, 100%, 100%, 1);
+    font-weight: bold;
+}
+
+.ask_second{
+    background-color: yellow;
+}
